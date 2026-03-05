@@ -6,7 +6,7 @@ main{
     align-items: center;
 }
 .areaCalculadora {
-    width: 350px;
+    width: 500px;
     padding: 10px;
     text-align: center;
 }
@@ -22,26 +22,26 @@ h1{
     height: 25px;
     border: 1px solid black;
     border-radius: 10px;
-    font-size: 8px;
+    font-size: 15px;
     padding-left: 10px;
 }
 .operacao {
     padding: 5px 8px;
-    font-size: 8px;
-    margin: 5px 3px;
-    background-color: orange;
+    font-size: 15px;
+    margin: 5px 7px;
+    background-color: palevioletred;
     border: none;
     border-radius: 10px;
     cursor: pointer;
 }
 .styleResultados {
-    font-size: 13px;
+    font-size: 15px;
     margin: 10px;
 }
 .styleBtnLimpar{
     padding: 5px 8px;
-    font-size: 8px;
-    background-color: #B7D9EC;
+    font-size: 15px;
+    background-color: pink;
     border: none;
    border-radius: 10px;
    cursor: pointer;
